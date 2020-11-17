@@ -12,4 +12,4 @@ title: "ukikagi"
 - [Twitter](https://twitter.com/ukikagi)
   / [AtCoder](https://atcoder.jp/users/ukikagi)
   / [GitHub](https://github.com/ukikagi)
-- Email: `ukikagi`@`gmail.com`
+- Email: `ukikagi``@``gmail.com`
